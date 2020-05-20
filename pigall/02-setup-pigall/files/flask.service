@@ -1,0 +1,8 @@
+[Unit]
+Description = Start pigall web server.
+
+[Service]
+ExecStart = /home/pi/webapp/start-webapp.sh
+
+[Install]
+WantedBy = multi-user.target

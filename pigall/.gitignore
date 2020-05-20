@@ -1,0 +1,4 @@
+# Pigall stage.
+02-setup-pigall/files/webapp
+02-setup-pigall/files/openvino
+02-setup-pigall/files/tensorflow-2.2.0-cp37-cp37m-linux_armv7l.whl
