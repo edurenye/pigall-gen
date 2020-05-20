@@ -17,3 +17,7 @@ file
 git
 lsmod:kmod
 bc
+pkg-config
+gcc:build-essential
+cmake
+python3
