@@ -22,3 +22,4 @@ python3-flask
 python3-pip
 protobuf-compiler
 libprotoc-dev
+libgtk-3-0
