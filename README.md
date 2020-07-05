@@ -1,3 +1,17 @@
+# Pigall-gen
+
+Fork of https://github.com/RPi-Distro/pi-gen for Pigall.
+
+After cloning the repositiory, initialize and update the submodules with:
+
+```
+git submodule init
+git submodule update
+```
+
+
+# Start of original README.md file
+
 # pi-gen
 
 _Tool used to create the raspberrypi.org Raspbian images_

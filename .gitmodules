@@ -1,0 +1,3 @@
+[submodule "pigall/02-setup-pigall/files/pigall-webapp"]
+	path = pigall/02-setup-pigall/files/pigall-webapp
+	url = https://github.com/edurenye/pigall-webapp
